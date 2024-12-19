@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MiniGameName: alphabet_draganddrop
   Version: 0.1.3
-  Url: https://pub-0d5f4b078a16403d8f14c633cbb5704c.r2.dev
+  Url: https://pub-02284d225b6c495689a53fe6e1023511.r2.dev
   CustomRenderPipelineAsset: {fileID: 11400000, guid: 2c20d38b83682fc44a9da01d857f9f02, type: 2}
