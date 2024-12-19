@@ -1,6 +1,6 @@
 {
   "name": "com.appidea.minigames.alphabet_dragAnddrop",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "displayName": "alphabet_dragAnddrop",
   "description": "match game",
   "dependencies": {
@@ -9,6 +9,6 @@
   },
   "unity": "2022.3",
   "author": {
-    "name": "irakli kakabaze"
+    "name": "irakli"
   }
 }

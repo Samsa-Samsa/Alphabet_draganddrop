@@ -33,20 +33,16 @@ public class BigManager : MonoBehaviour
     {
         StartCoroutine(FinishAfterFireWorks());
         
-
     }
 
     private IEnumerator FinishAfterFireWorks()
     {
         yield return new WaitForSecondsRealtime(5f);
         alphabetDragAndDropEntryPoint.InvokeGameFinished();
-        Debug.Log("Finish called");
     }
 
     private void FinishGameWithButton()
     {
         alphabetDragAndDropEntryPoint.InvokeGameFinished();
-        Debug.Log("Finish called");
-       
     }
 }
