@@ -1,6 +1,6 @@
 {
   "name": "com.appidea.minigames.alphabet_draganddrop",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "displayName": "alphabet_draganddrop",
   "description": "match game",
   "dependencies": {
